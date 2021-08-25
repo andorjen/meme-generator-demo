@@ -40,3 +40,10 @@ displayContainer.addEventListener('click', function (e) {
     e.target.parentElement.remove();
 
 })
+
+
+const mememe = () => (
+
+    console.log('ssddd')
+
+}
